@@ -1,0 +1,57 @@
+.header{
+    text-align: center;
+}
+
+.header h1{
+    color: purple
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.navbar li{
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+.section-index h2{
+    color :blueviolet;
+    text-align: center;
+}
+
+.section-index h4{
+    color : gold;
+    text-align: center;
+}
+
+.section-index ul{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.section-hakkimizda h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.section-hakkimizda h3{
+    color:gold
+}
+
+.section-items img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.section-items p{
+    text-align: center;
+}
